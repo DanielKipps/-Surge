@@ -1,0 +1,8 @@
+#!name=😅差不多得了
+#!😅😅😅😅😅😅😅😅😅
+
+[Panel]
+stream-all = script-name=Streaming media, title="Streaming media", content="Please refresh", update-interval=-1
+
+[Script]
+Streaming media = type=generic,timeout=15,script-path= https://raw.githubusercontent.com/Troeoy/LISA/main/liumeiti.js
