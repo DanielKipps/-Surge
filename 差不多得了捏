@@ -1,5 +1,5 @@
 #!name=😅差不多得了
-#!😅😅😅😅😅😅😅😅😅
+#!desc=😅😅😅😅😅😅😅😅😅
 
 [Panel]
 stream-all = script-name=Streaming media, title="Streaming media", content="Please refresh", update-interval=-1
